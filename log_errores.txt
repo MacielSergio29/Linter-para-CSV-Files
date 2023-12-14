@@ -1,0 +1,2 @@
+Error: El archivo no tiene la cantidad correcta de columnas o las columnas no coinciden.
+Error: El archivo contiene celdas vacías.
